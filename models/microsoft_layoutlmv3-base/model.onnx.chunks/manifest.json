@@ -1,0 +1,74 @@
+{
+  "original_filename": "model.onnx",
+  "original_size": 501597822,
+  "original_sha256": "e8d1f8e133bc7e727ec873b400fa31b226a488bccf392c1fc97ec5e0bdbba96a",
+  "chunk_size": 52428800,
+  "chunks": [
+    {
+      "name": "model.onnx.part0000",
+      "size": 52428816,
+      "nonce_b64": "L94746sImB4iarYU",
+      "sha256": "05c18106792d8f1914468de93601b6560a30bed3e188427af93c6a4db300513e"
+    },
+    {
+      "name": "model.onnx.part0001",
+      "size": 52428816,
+      "nonce_b64": "bLV9Rkdy1BPTLYS8",
+      "sha256": "bb223bf694f2eb916471d19160c3b1c952698d157de471648492d4df2bb6820e"
+    },
+    {
+      "name": "model.onnx.part0002",
+      "size": 52428816,
+      "nonce_b64": "KKuuOOEiNGE8zsXI",
+      "sha256": "6d93981550c796f5925a3aff451efe502c45a37114641fa0c3bd70c938920877"
+    },
+    {
+      "name": "model.onnx.part0003",
+      "size": 52428816,
+      "nonce_b64": "s7sr4JBaXDy4B5zQ",
+      "sha256": "ba8762bd725f13269aabf820ddd07744241b8b7210196d7297247125e213fd0a"
+    },
+    {
+      "name": "model.onnx.part0004",
+      "size": 52428816,
+      "nonce_b64": "S7aFHD5pgPN4yLZn",
+      "sha256": "73344034c743e318b906610fbe87169f84a1ce5b51c79ae47f48b9d00f4f7036"
+    },
+    {
+      "name": "model.onnx.part0005",
+      "size": 52428816,
+      "nonce_b64": "SCBdXfy7gq0q+Utq",
+      "sha256": "e160d110159a1472fa404bb920cc3c613109df8edb52e90cc93733237d19b6fc"
+    },
+    {
+      "name": "model.onnx.part0006",
+      "size": 52428816,
+      "nonce_b64": "lQyb6wSTkRNZcTrg",
+      "sha256": "e6a0817b8092f2ba4413b5a37c32219adfc2911cab5d3084c5ef6a5ae7883f31"
+    },
+    {
+      "name": "model.onnx.part0007",
+      "size": 52428816,
+      "nonce_b64": "Yk1eWlfYWMIv4Xg1",
+      "sha256": "d1872ac4f9d9dfac9f3d8269144ce6b172c106a3acc154e1f82c36d105aa33db"
+    },
+    {
+      "name": "model.onnx.part0008",
+      "size": 52428816,
+      "nonce_b64": "SJdhZWQVoBLnXGgy",
+      "sha256": "cd55cbd881404f1855785696b079f9ac3dc715f1dabfb256e0e87f0504086962"
+    },
+    {
+      "name": "model.onnx.part0009",
+      "size": 29738638,
+      "nonce_b64": "BP+I1uHu14cAtZMK",
+      "sha256": "c6d5787478ed83746578fbb000e830ce76612bd12be5aaed6278dde9657786ff"
+    }
+  ],
+  "encrypted": true,
+  "kdf": {
+    "algo": "PBKDF2-HMAC-SHA256",
+    "rounds": 200000
+  },
+  "salt_b64": "Y2mzBwNKZqSJS7dM3GmSqQ=="
+}

@@ -1,0 +1,74 @@
+{
+  "original_filename": "model.safetensors",
+  "original_size": 501338056,
+  "original_sha256": "3c6bd09290e28867c32adf634a6b36574ff43a9e53539633f5ac540015ac2baf",
+  "chunk_size": 52428800,
+  "chunks": [
+    {
+      "name": "model.safetensors.part0000",
+      "size": 52428816,
+      "nonce_b64": "smhe9By9mr15gYTP",
+      "sha256": "90493b9e17c9ce973debe3a007ae89a950a8cf8835da54c935154d41b1ca36e3"
+    },
+    {
+      "name": "model.safetensors.part0001",
+      "size": 52428816,
+      "nonce_b64": "2NsMBn1sYT+WEe75",
+      "sha256": "13d8f675aff4d1b602e3ff21d28d185d9d0b9ca179e29a17fe293eaffdfbc455"
+    },
+    {
+      "name": "model.safetensors.part0002",
+      "size": 52428816,
+      "nonce_b64": "CtjeOJ1V9MUZPRkE",
+      "sha256": "e663e275e1d21441b39dd5cc3808cdf794db83bcbd52ca6ef6e8d18be6890db7"
+    },
+    {
+      "name": "model.safetensors.part0003",
+      "size": 52428816,
+      "nonce_b64": "LO7KkLBOu3ISa5xS",
+      "sha256": "fb0c13c91e92d423e0b3b9a5584cc6595897dd63c4e7ed3e66f1e6682322e589"
+    },
+    {
+      "name": "model.safetensors.part0004",
+      "size": 52428816,
+      "nonce_b64": "sXi0QuondpLgYLdZ",
+      "sha256": "3267bfd81c3509d149bde9bac1ef31f465fec95d3278a81dbba2ecf6eecd25c6"
+    },
+    {
+      "name": "model.safetensors.part0005",
+      "size": 52428816,
+      "nonce_b64": "WBBL9qTCtxR1pBo/",
+      "sha256": "77be24f6602c60c691b07aa42f0c0a4558aa805e614e21bebc53637754b0f526"
+    },
+    {
+      "name": "model.safetensors.part0006",
+      "size": 52428816,
+      "nonce_b64": "CtbkYwqtVbZ3m0Si",
+      "sha256": "20ab5cd2f2cead296b432ece852c8bec3cd56b5979ab4a1378d58ca8efc3d9be"
+    },
+    {
+      "name": "model.safetensors.part0007",
+      "size": 52428816,
+      "nonce_b64": "8OrKZ9bfjdKIo9Q2",
+      "sha256": "57b70458d744bc728fdf13075f980c44b13b61d80bbdddb5ac85a60572f95328"
+    },
+    {
+      "name": "model.safetensors.part0008",
+      "size": 52428816,
+      "nonce_b64": "XaH6+p6A+Y5ycUNn",
+      "sha256": "de075b2b3ef2f6d9365832d62893e7f5c8e6fe968cee7b118d2e2782cadb9383"
+    },
+    {
+      "name": "model.safetensors.part0009",
+      "size": 29478872,
+      "nonce_b64": "VmW1BgkYQzlroh/a",
+      "sha256": "bea91ab81f7d17a50d6f657777c5b4205c74228e7afa605f0befff400f60bd8f"
+    }
+  ],
+  "encrypted": true,
+  "kdf": {
+    "algo": "PBKDF2-HMAC-SHA256",
+    "rounds": 200000
+  },
+  "salt_b64": "AAWBuKmm9i8lzvLvyQ76kw=="
+}

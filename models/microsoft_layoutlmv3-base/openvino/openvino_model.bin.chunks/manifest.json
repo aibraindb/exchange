@@ -1,0 +1,26 @@
+{
+  "original_filename": "openvino_model.bin",
+  "original_size": 90265744,
+  "original_sha256": "8b86cab4722e2aefab310cf96d4d5a9eb3b187f7d9670a082afc55c7fa0d392a",
+  "chunk_size": 52428800,
+  "chunks": [
+    {
+      "name": "openvino_model.bin.part0000",
+      "size": 52428816,
+      "nonce_b64": "50o6vw0xeOgvC3AU",
+      "sha256": "505a85a00b3f902998397a6f08abb40e59c02e44be7b30b9e6e8f10b26db6dc7"
+    },
+    {
+      "name": "openvino_model.bin.part0001",
+      "size": 37836960,
+      "nonce_b64": "sknMS7yq77dNTKzp",
+      "sha256": "8be76f3ba115c3dad7bbf3c2c787d8ed1c88c20a028046ec5dc3f963c370fe7d"
+    }
+  ],
+  "encrypted": true,
+  "kdf": {
+    "algo": "PBKDF2-HMAC-SHA256",
+    "rounds": 200000
+  },
+  "salt_b64": "b35Wikx3Edz66rXkdMHDeQ=="
+}

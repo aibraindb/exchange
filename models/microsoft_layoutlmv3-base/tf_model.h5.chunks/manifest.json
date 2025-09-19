@@ -1,0 +1,74 @@
+{
+  "original_filename": "tf_model.h5",
+  "original_size": 501590056,
+  "original_sha256": "0e8ef2140ebbfb261a441cded24114ca32eaeb6ca4485aa06e81be7bdd790d40",
+  "chunk_size": 52428800,
+  "chunks": [
+    {
+      "name": "tf_model.h5.part0000",
+      "size": 52428816,
+      "nonce_b64": "4bncbitV0QzUvktc",
+      "sha256": "22098925dead70f9563bff78a8008743f3b75963df3911d32211f854bb8fadc2"
+    },
+    {
+      "name": "tf_model.h5.part0001",
+      "size": 52428816,
+      "nonce_b64": "MnS+9XmE2uNs117c",
+      "sha256": "a7a344fc4d536fbe18b9d687607fb8148c2f897e51ec804605133e9d734cb87a"
+    },
+    {
+      "name": "tf_model.h5.part0002",
+      "size": 52428816,
+      "nonce_b64": "vh7UiIJsfFXFpBR4",
+      "sha256": "c5b85da534acefa974b63ce186f0e3dfdbff0332e89cf30a312ee11747e9c958"
+    },
+    {
+      "name": "tf_model.h5.part0003",
+      "size": 52428816,
+      "nonce_b64": "bI++GbOr0A3SPjI8",
+      "sha256": "524139e8d41c7ddc43c29b93e8b1bc7dd48f81066ee401adc76c6be90ae92f4f"
+    },
+    {
+      "name": "tf_model.h5.part0004",
+      "size": 52428816,
+      "nonce_b64": "tesHqN7O0deBo9QM",
+      "sha256": "6aacda6491ac5f70d4b9f6a8470fca57f59c8b201c86a1aacfcafc423d25c9e4"
+    },
+    {
+      "name": "tf_model.h5.part0005",
+      "size": 52428816,
+      "nonce_b64": "sE4cdpAj2wWLJkff",
+      "sha256": "5211e134dd4774e8ab52eb32cc116f97d30478aa6c4eba1d8c3e4930f15774db"
+    },
+    {
+      "name": "tf_model.h5.part0006",
+      "size": 52428816,
+      "nonce_b64": "c7AmZ9D6FhU0ZF5H",
+      "sha256": "19c8057b60b7c2f42b725e9831b19bcf6c15e7439882592596505b8f6454f6b3"
+    },
+    {
+      "name": "tf_model.h5.part0007",
+      "size": 52428816,
+      "nonce_b64": "sPJmW8kMaX7Wssa9",
+      "sha256": "79243f5353077438c029b381e779d7605465877e51c79d47e5f631db7fbc06ef"
+    },
+    {
+      "name": "tf_model.h5.part0008",
+      "size": 52428816,
+      "nonce_b64": "R2PtEtJ/3yvP0hfg",
+      "sha256": "1f9a247d7ad4dc7ddf52906e61a59af3c5fc1a41c021b82f2a8508cef9e862b2"
+    },
+    {
+      "name": "tf_model.h5.part0009",
+      "size": 29730872,
+      "nonce_b64": "jvGR75mTnpriYzpF",
+      "sha256": "ee0a37435721ec99370c9cde050d7e70e0ffd3a0cdc7d2e20212ff3b6febdf43"
+    }
+  ],
+  "encrypted": true,
+  "kdf": {
+    "algo": "PBKDF2-HMAC-SHA256",
+    "rounds": 200000
+  },
+  "salt_b64": "oiFNnV3MtpPCpVVbB9mACg=="
+}
